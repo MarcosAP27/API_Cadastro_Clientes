@@ -1,0 +1,8 @@
+com\marcos\company\repositorio\Repository.class
+com\marcos\company\model\Cliente.class
+com\marcos\company\ClienteCadastroApplication.class
+com\marcos\company\service\ClienteService.class
+com\marcos\company\controller\ClienteController.class
+com\marcos\company\shared\ClienteCompletoDTO.class
+com\marcos\company\shared\ClienteDTO.class
+com\marcos\company\service\ClienteServiceImpl.class
